@@ -1,0 +1,27 @@
+[1]
+x = 5
+y = 1
+Operator = "Texas"
+Action = "EAST"
+Condition = "Sufficient Cost"
+
+[2]
+x = 7
+y = 2
+Operator = "Myrtle"
+Action = "EAST"
+Condition = "Tile Illuminated"
+
+[3]
+x = 5
+y = 1
+Operator = "Texas"
+Action = "SKILL"
+Condition = "Charged"
+
+[4]
+x = 8
+y = 2
+Operator = "Ptilopsis"
+Action = "WEST"
+Condition = "Sufficient Cost"
